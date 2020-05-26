@@ -4,7 +4,7 @@ A string S consisting of uppercase English letters is given. In one move we can 
 
 Write a function”
 
-```function solution(S);
+```function solution(S);```
 
 That, given a string S of length N, returns the maximum number of moves that can be applied.
 
