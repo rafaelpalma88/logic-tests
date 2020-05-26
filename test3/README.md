@@ -18,7 +18,7 @@ There are two hills: [3..3] and [11..11]. There are also two valleys: [0..1] and
 
 Write a function:
 
-```function solution(A)
+```function solution(A)```
 
 that, given an array A consisting of N integers, as explained above, returns the total number of hills and valleys.
 
