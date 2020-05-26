@@ -11,15 +11,19 @@ That, given a string S of length N, returns the maximum number of moves that can
 Examples:
 
 1. Given S = "BAONXXOLL" the function should return 1;
+
 BAONXXOLL -> XX
 
 2. Given S = "BAOOLLNNOLOLGBAX" the function should return 2.
+
 BAOOLLNNOLOLGBAX -> BOLLNOGAX -> GX
 
 3. Given S = "QAWABAWONL", the function should return 0.
+
 QAWABAWONL
 
 4. Given S = "ONLABLABLOON", the function should return 1.
+
 ONLABLABLOON -> OLABN
 
 Write an efficient algorithm for the following assumptions:
