@@ -8,7 +8,7 @@ A[R] + A[P] > A[Q].
 
 For example, consider array A such that:
 
-A[0] = 10    
+A[0] = 10 
 A[1] = 2    
 A[2] = 5
 A[3] = 1     
